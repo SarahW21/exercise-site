@@ -1,0 +1,115 @@
+
+@media screen and (min-width: 480px) {
+  body {
+    background-color: #184212;
+  }
+}
+
+.topnav {
+    background-color: #FFFF00;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 26px 28px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #d1b834;
+    columns: #f2d16c;
+  }
+  
+  /* Add an active class to highlight the current page */
+  .topnav a.active {
+    background-color: #d1b834;
+    color: whitesmoke;
+  }
+  
+  /* Hide the link that should open and close the topnav on small screens */
+  .topnav .icon {
+    display: none;
+  }
+
+  
+
+  #TIPS{
+
+    color:whitesmoke;
+  }
+
+
+
+h2{
+
+  color:white;
+  text-align: center;
+}
+
+
+h1{
+  color:#FFFF00;
+  text-align: center;
+
+}
+
+h3{
+  text-align: center;
+  color: #f2d16c;
+
+
+}
+
+p{
+  text-align: center;
+  color:whitesmoke;
+}
+
+h4{
+   text-align: center;
+   color: #d6c304;
+}
+
+
+img{
+  border: 5px solid;
+  border-color: #f2d16c;
+
+}
+
+
+dl{
+
+  text-align: center;
+  color: whitesmoke;
+}
+
+dt{
+
+  color: #f2d16c;
+}
+
+b{
+
+  color: black;
+}
+
+
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: yellow;
+  color: black;
+  text-align: center;
+  padding: 2px;
+}
+
+
